@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\TakeNumberOne\publish\TakeNumberOne.exe
+C:\Users\admin\source\repos\TakeNumberOne\publish\web.config
+C:\Users\admin\source\repos\TakeNumberOne\publish\appsettings.Development.json
+C:\Users\admin\source\repos\TakeNumberOne\publish\appsettings.json
+C:\Users\admin\source\repos\TakeNumberOne\publish\TakeNumberOne.dll
+C:\Users\admin\source\repos\TakeNumberOne\publish\TakeNumberOne.deps.json
+C:\Users\admin\source\repos\TakeNumberOne\publish\TakeNumberOne.runtimeconfig.json
+C:\Users\admin\source\repos\TakeNumberOne\publish\TakeNumberOne.pdb
+C:\Users\admin\source\repos\TakeNumberOne\publish\Microsoft.OpenApi.dll
+C:\Users\admin\source\repos\TakeNumberOne\publish\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\TakeNumberOne\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\source\repos\TakeNumberOne\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\source\repos\TakeNumberOne\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\source\repos\TakeNumberOne\publish\Telegram.Bot.dll
